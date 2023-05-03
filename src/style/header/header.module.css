@@ -1,0 +1,13 @@
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 55px;
+  background-color: #0067A3;
+  color: white;
+}
+header .wrapper {
+  width: 1200px;
+  display: flex;
+  justify-content: space-between;
+}/*# sourceMappingURL=header.module.css.map */
